@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Campus_Connect Student Networking Forum",
+    "imageSrc": "projects/project.png",
+    "description": "Developed a web-based platform aimed at connecting students within a university.",
+    "skills": ["PHP", "MYSQL", "HTML", "CSS", "JavaScript"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Gully Cricket - Cricket Scoring Platform",
+    "imageSrc": "projects/project.png",
+    "description": "Developed a web-based application to manage live cricket score tracking for local matches and tournaments",
+    "skills": ["React","HTML", "JavaScript","MYSQL"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+]

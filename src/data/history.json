@@ -1,0 +1,22 @@
+[
+  {
+    "role": "Web Developer Intern",
+    "organisation": "VaultofCodes",
+    "startDate": "Aug, 2025",
+    "endDate": "Present",
+    "experiences": [
+      "Worked on Portfolio Website",
+      "Helped create UI components"
+    ],
+    "imageSrc": "history/vault.png"
+  },
+  {
+    "role": "Web Developer Intern",
+    "organisation": "VikasG Web Solutions",
+    "startDate": "Jun, 2023",
+    "endDate": "July, 2023",
+    "experiences": ["Worked on School Website", "Backend Basics"],
+    "imageSrc": "history/vikas.png"
+  }
+  
+]
